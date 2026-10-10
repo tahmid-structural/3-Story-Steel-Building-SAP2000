@@ -4,7 +4,7 @@
 This project involves the structural analysis and steel design of a hypothetical three-story steel building using SAP2000.
 
 # Building Information
-- Building Type: Steel Office Building
+- Building Type: Steel Building
 - Number of Stories: 3
 - Story Height: 12 ft
 - Plan Dimensions: 80 ft × 40 ft
@@ -20,10 +20,10 @@ This project involves the structural analysis and steel design of a hypothetical
 - SAP2000
 
 # Project Contents
-- 01_SAP2000_Model`: SAP2000 model and backup files
-- 02_Screenshots`: Model views, loading, analysis, and design screenshots
-- 03_Design_Results`: Design tables, demand/capacity ratios, reactions, and displacements
-- 04_Report`: Final project report
+- 01_SAP2000_Model: SAP2000 model and backup files
+- 02_Screenshots: Model views, loading, analysis and design screenshots
+- 03_Design_Results: Design tables, demand/capacity ratios, reactions and displacements
+- 04_Report: Final project report
 
 # Project Status
 Structural modeling and steel design checks have been completed.
