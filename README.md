@@ -27,7 +27,7 @@ This project involves the structural analysis and steel design of a hypothetical
 
 # Project Status
 Structural modeling and steel design checks have been completed.
-Portfolio documentation and screenshot collection are in progress.
+Portfolio documentation and screenshot collection have been added.
 
 # Disclaimer
 This is an educational portfolio project. It is not a construction-ready design or a certified engineering submission.
